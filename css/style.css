@@ -43,13 +43,15 @@ a {
 }
 
 .banner h1 {
-  color: yellow;
+  color: white;
   font-size: 35px;
+  text-shadow: 1px 1px 1px rgb(10 10 10 / 80%);
 }
 
 .banner p {
-  color: yellow;
+  color: white;
   font-size: 18px;
+  text-shadow: 1px 1px 1px rgb(10 10 10 / 80%);
 }
 
 .container {
